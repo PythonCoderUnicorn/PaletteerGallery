@@ -1,4 +1,4 @@
-<img height='250' align='right' src='https://user-images.githubusercontent.com/55933131/145254649-25f301cf-1bf7-441f-a37b-06983650cd1e.png'>
+<img height='200' align='right' src='https://user-images.githubusercontent.com/55933131/145254649-25f301cf-1bf7-441f-a37b-06983650cd1e.png'>
 
 # Paletteer Gallery
 my visual color palette gallery for paletteer R pkg
