@@ -1,8 +1,7 @@
 # grDevices palettes
 
 
-### grDevices::rainbow
-![image](https://user-images.githubusercontent.com/55933131/145133959-cae16baa-7ad8-4e2a-a02a-6dafb64ff5f9.png)
+
 
 
 ![palette-pic 15](https://user-images.githubusercontent.com/55933131/145136556-71fbb6ec-36f2-4a5b-8c78-3579882a965b.png)
