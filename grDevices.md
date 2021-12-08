@@ -1,5 +1,6 @@
 # grDevices palettes
 
+color palettes for sequential and diverging data
 
 
 
