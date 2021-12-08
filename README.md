@@ -15,6 +15,15 @@ ggplot(
 ```
 
 # ggthemes
-<img height='500' src='https://user-images.githubusercontent.com/55933131/145127319-c8dc7ff1-1d5b-49cf-9040-d27cccf8743d.png'>
+<img height='300' src='https://user-images.githubusercontent.com/55933131/145129116-ab3e4e73-73f2-4b3b-bcd4-0ca43d5ec944.png'>
+
+### Orange Light
+<img height='300' src='https://user-images.githubusercontent.com/55933131/145129294-394f8501-6efe-4bb6-8fe5-875c24bf1452.png'>
+
+
+<img height='500' src=''>
+<img height='500' src=''>
+<img height='500' src=''>
+
 
 <img height='500' src=''>
