@@ -27,3 +27,7 @@ ggplot(
 ![palette-pic 8](https://user-images.githubusercontent.com/55933131/145131178-cc426ef4-05ea-4ba9-b1d5-dead8a5cb23c.png)
 ![palette-pic 9](https://user-images.githubusercontent.com/55933131/145131179-63713ae8-dfe2-49af-a023-439d9272de31.png)
 ![palette-pic 10](https://user-images.githubusercontent.com/55933131/145131181-cde41ae7-326a-41eb-92d6-b84474cb435c.png)
+![palette-pic 11](https://user-images.githubusercontent.com/55933131/145131924-46616a93-2430-48bc-82e4-41b6780d8e9e.png)
+![palette-pic 12](https://user-images.githubusercontent.com/55933131/145131926-eb0e3b7f-8544-4772-9485-1f7e1db4543a.png)
+
+![palette-pic 13](https://user-images.githubusercontent.com/55933131/145132220-77d6f25c-636d-41a1-afd3-ddf0ee2271e4.png)
